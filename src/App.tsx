@@ -156,7 +156,8 @@ function App() {
               projekt.
             </p>
             <ul>
-              <li>Flimvisarna - frontendprojekt grupparbete - https://filmvisarna.se/ </li>
+              <li>Frontendprojekt grupparbete - <a href="https://filmvisarna.se/" target="_blank" rel="noopener noreferrer">
+                Flimvisarna </a> </li>
               <li>React‑appar från JavaScript 3</li>
               <li>Homelab‑projekt med Docker</li>
             </ul>
