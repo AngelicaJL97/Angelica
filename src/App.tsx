@@ -156,7 +156,7 @@ function App() {
               projekt.
             </p>
             <ul>
-              <li>Airbean API – backend grupprojekt</li>
+              <li>Flimvisarna - frontendprojekt grupparbete - https://filmvisarna.se/ </li>
               <li>React‑appar från JavaScript 3</li>
               <li>Homelab‑projekt med Docker</li>
             </ul>
